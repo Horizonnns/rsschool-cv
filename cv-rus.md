@@ -54,7 +54,7 @@ console.log(res);
 - Result School: Практический Интенсив
 
 - Udemy: Богдан Стасчук - Полный курс JavaScript - (2022)
-- WebAcademy: Frontend курс (пока учусь . . . - 2022)
+- WebAcademy: Frontend курс - (01.10.2022 - 01.01.2023)
 
 # Языки
 
