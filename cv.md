@@ -12,7 +12,7 @@
   
 * GitHub: https://github.com/Horizonnns
 
-- Telegram: @watcherofthesens
+- Telegram: https://github.com/Horizonnns
 
 # About Me:
 
