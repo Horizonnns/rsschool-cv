@@ -1,6 +1,6 @@
 ## rsschool-cv
 
-# __Kasim Kasimski__
+# __Kasim Saidakbarovich__
 
 # Contacts:
 
@@ -10,7 +10,7 @@
   * milki_way.98@mail.ru
   * faridunqosim@gmail.com
   
-* GitHub: https://github.com/MeKess
+* GitHub: https://github.com/Horizonnns
 
 - Telegram: @watcherofthesens
 
