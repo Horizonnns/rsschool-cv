@@ -12,7 +12,7 @@
   
 * GitHub: https://github.com/Horizonnns
 
-- Telegram: https://github.com/Horizonnns
+- Telegram: https://t.me/Horizonnns
 
 # About Me:
 
