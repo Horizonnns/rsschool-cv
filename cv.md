@@ -1,6 +1,6 @@
 ## rsschool-cv
 
-# __Kasim Kasimski__
+# __Kasim Saidakbarovich__
 
 # Contacts:
 
@@ -10,7 +10,7 @@
 
 * GitHub: https://github.com/Horizonnns
 
-- Telegram: @Horizonnns
+- Telegram: https://t.me/Horizonnns
 
 # About Me:
 
@@ -30,14 +30,17 @@ Target: "Full-Stack Software Engineer"._
 # Code Example:
 
 ```
-const people = [
-{ name: 'Kasim', age: 24 },
-{ name: 'Alice', age: 20 },
-];
+const sendConfirm = async () => {
+  await axios.post('https://fakeapi/store', {
+    phone: form.value.msisdn,
+  })
+  .then((res) => {
+    if (res.data.confirm.message === 'The SMS with the code was sent') {
+			console.log('message', res.data.confirm.message);
+    }
+})};
 
-const res = people.find((people) => (people.name = 'Alice'));
-
-console.log(res);
+sendConfirm()
 ```
 
 # Education
