@@ -4,13 +4,13 @@
 
 # Contacts:
 
-- Phone: +992 556 29-01-00
+- Phone: +992 902-000-821
 
-* E-mail: milki_way.98@mail.ru
+* E-mail: for.office.gthb@gmail.com
 
-* GitHub: https://github.com/MeKess
+* GitHub: https://github.com/Horizonnns
 
-- Telegram: @watcherofthesens
+- Telegram: @Horizonnns
 
 # About Me:
 
@@ -19,18 +19,13 @@ Finding solutions to most problems on your own.
 I am flexible, reliable and have excellent time tracking skills. I am purposeful, purposeful, reliable, responsible person. I am a mature team worker and adapt to any difficult situations. I can work well both in a team and on my own initiative.
 Target: "Full-Stack Software Engineer"._
 
-# Skills and Proficiency:
-
-- HTML
-- CSS
-- SCSS
-- BEM Metodology
-- Tailwind CSS
-- JavaScript (basic)
-- Git
-- GitHub
-- VS Code
-- Adobe Photoshop
+# Skills and Proficiency 
+- Npm, Yarn 
+- JavaScript
+- Tailwindcss
+- Git/Hub/Lab/Bitbucket
+- Vue, Vite, Nuxt, Inertia
+- HTML(Flex & Grid) / CSS / SCSS / BEM(CSS)
 
 # Code Example:
 
