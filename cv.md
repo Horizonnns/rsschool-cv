@@ -4,45 +4,43 @@
 
 # Contacts:
 
-- Phone: +992 556 29-01-00
+- Phone: +992 902-000-821
 
-* E-mail: 
-  * milki_way.98@mail.ru
-  * faridunqosim@gmail.com
-  
+* E-mail: for.office.gthb@gmail.com
+
 * GitHub: https://github.com/Horizonnns
 
 - Telegram: https://t.me/Horizonnns
 
 # About Me:
 
-_I am 24 years old. I studied at a technical university at the Faculty of Environmental Engineering and Water Management. Not to say that my specialty is not in demand, but I do not like it. Now I started to study hard in the field of IT in the direction of Front-End. My strengths:
-Do-it-yourself solution to most problems. I am flexible, reliable, purposeful, responsible person. I have excellent time tracking skills. I am a mature team worker and adapt to any difficult situations. I can work well both in a team and on my own initiative.
+_I am 24 years old. I studied at a technical university at the faculty: Environmental Engineering and Water Management. Not to say that my specialty is not in demand, but I don’t like it for some reason. Now I have begun to study diligently in the IT field in Front-End. My strengths:
+Finding solutions to most problems on your own.
+I am flexible, reliable and have excellent time tracking skills. I am purposeful, purposeful, reliable, responsible person. I am a mature team worker and adapt to any difficult situations. I can work well both in a team and on my own initiative.
 Target: "Full-Stack Software Engineer"._
 
-# Skills and Proficiency:
-
-- Npm & Yarn
-- Git & GitHub
-- Vite (Builder)
-- Vue (Framework)
-- JavaScript (basic)
-- VS Code / Prettier
-- Tailwind CSS/Bootstrap
+# Skills and Proficiency 
+- Npm, Yarn 
+- JavaScript
+- Tailwindcss
+- Git/Hub/Lab/Bitbucket
+- Vue, Vite, Nuxt, Inertia
 - HTML(Flex & Grid) / CSS / SCSS / BEM(CSS)
-- Adobe Photoshop
 
 # Code Example:
 
 ```
-const people = [
-{ name: 'Kasim', age: 24 },
-{ name: 'Alice', age: 20 },
-];
+const sendConfirm = async () => {
+  await axios.post('https://fakeapi/store', {
+    phone: form.value.msisdn,
+  })
+  .then((res) => {
+    if (res.data.confirm.message === 'The SMS with the code was sent') {
+			console.log('message', res.data.confirm.message);
+    }
+})};
 
-const res = people.find((people) => (people.name = 'Alice'));
-
-console.log(res);
+sendConfirm()
 ```
 
 # Education
@@ -55,8 +53,7 @@ console.log(res);
 
 - Result School: Training - Intensive
 
-- Udemy: Bogdan Stashchuk - JavaScript complete course - (2022)
-- WebAcademy: Frontend course - (01.10.2022 - 01.01.2023)
+* Udemy: Bogdan Stashchuk - JavaScript complete course - (2022)
 
 # Languages
 
