@@ -2,7 +2,7 @@
 
 # **Косим Саидакбарович**
 
-# Contacts:
+# Контакты:
 
 - Тел: +992 902-000-821
 
@@ -47,9 +47,9 @@ sendConfirm()
 
 # Обращование
 
-- Bryansk State Technical University
+- Брянский Государтсвенный Технический Университет
 
-  - Faculty of Environmental Engineering and Water Use
+  - Факультет: Природообустройства и Водопользование
 
 # Курсы
 
