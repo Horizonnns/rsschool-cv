@@ -1,6 +1,6 @@
 ## rsschool-cv
 
-# __Kasim Saidakbarovich__
+# **Kasim Saidakbarovich**
 
 # Contacts:
 
@@ -14,17 +14,15 @@
 
 # About Me:
 
-_I am 24 years old. I studied at a technical university at the faculty: Environmental Engineering and Water Management. Not to say that my specialty is not in demand, but I don’t like it for some reason. Now I have begun to study diligently in the IT field in Front-End. My strengths:
-Finding solutions to most problems on your own.
-I am flexible, reliable and have excellent time tracking skills. I am purposeful, purposeful, reliable, responsible person. I am a mature team worker and adapt to any difficult situations. I can work well both in a team and on my own initiative.
-Target: "Full-Stack Software Engineer"._
+_I am 24 years old. I studied at the Technical University at the faculty of Environmental Management and Water Management. Not to say that my specialty is not in demand, but I don’t like it. At the moment, I have been working as a Front-End developer for almost 1 year. My strengths: Find solutions to most problems independently. I am flexible, reliable and have excellent time tracking skills. I am a goal-oriented, goal-oriented, reliable, responsible person. I am a mature team worker and can adapt to any difficult situations. I can work well both in a team and on my own initiative. Goal: "Full stack software engineer."_
 
 # A little about my experience:
 
 Worked on such cases as: Authorization, Login, Modal windows, Card dropdowns, Sliders, Various menus, Geographic map of the country with points containing information, Created admin panels, created routings for pages, Validation of forms. I made websites using SSR SSG technologies. Created queries and output data from the backend. I made various procedural requests, created various landing sites, mainly did projects on Vu, Naxt Inershia. Worked with the assemblers of the Vite project, webpack. I made a landing page for the Anor company. In addition, there were many different projects within the company
 
-# Skills and Proficiency 
-- Npm, Yarn 
+# Skills and Proficiency
+
+- Npm, Yarn
 - JavaScript
 - Tailwindcss
 - Git/Hub/Lab/Bitbucket
