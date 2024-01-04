@@ -19,6 +19,10 @@ Finding solutions to most problems on your own.
 I am flexible, reliable and have excellent time tracking skills. I am purposeful, purposeful, reliable, responsible person. I am a mature team worker and adapt to any difficult situations. I can work well both in a team and on my own initiative.
 Target: "Full-Stack Software Engineer"._
 
+# A little about my experience:
+
+Worked on such cases as: Authorization, Login, Modal windows, Card dropdowns, Sliders, Various menus, Geographic map of the country with points containing information, Created admin panels, created routings for pages, Validation of forms. I made websites using SSR SSG technologies. Created queries and output data from the backend. I made various procedural requests, created various landing sites, mainly did projects on Vu, Naxt Inershia. Worked with the assemblers of the Vite project, webpack. I made a landing page for the Anor company. In addition, there were many different projects within the company
+
 # Skills and Proficiency 
 - Npm, Yarn 
 - JavaScript
